@@ -1,17 +1,25 @@
 **🔹 Tools & Technologies Used**
-Frontend (Client-side)
-React.js – Component-based UI development
-Vite / CRA – For fast development and bundling
-Tailwind CSS / Motion – Styling and responsive design
-Axios / Fetch API – To communicate with backend REST APIs
-React Router – For navigation and routing
+
+**Frontend (Client-side)**
+1.React.js – Component-based UI development.
+
+2.Vite / CRA – For fast development and bundling
+
+3.Tailwind CSS / Motion – Styling and responsive design.
+
+4.Axios / Fetch API – To communicate with backend REST APIs.
+
+5.React Router – For navigation and routing
 
 **Backend (Server-side)**
 
-Node.js – JavaScript runtime for server-side logic
-Express.js – Lightweight backend framework to build RESTful APIs
-Multer / FormData – For handling image uploads and request payloads
-JWT (JSON Web Token) – For authentication and authorization
+1.Node.js – JavaScript runtime for server-side logic.
+
+2.Express.js – Lightweight backend framework to build RESTful APIs.
+
+3.Multer / FormData – For handling image uploads and request payloads.
+
+4.JWT (JSON Web Token) – For authentication and authorization.
 
 **Database**
 
